@@ -33,8 +33,15 @@
    - Slide bài giảng: https://drive.google.com/drive/folders/1HQXd0UEd4v293ILj8vrp7ziWy4oBmM7E?usp=sharing
    - Tài liệu của microsoft: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-9.0&tabs=visual-studio-code
 3. Link thông tin môn học: https://docs.google.com/spreadsheets/d/1cWDlgvMLzJL4UX9wyLanddn-CDM-B7nJz7av0gv4RA8/edit?usp=sharing
-4. Bài thực hành
+4. Buổi học số 2
+   - Branch trong git
+   - Các lệnh git: git clone, git pull, git push, git merge, git checkout
+5. Bài thực hành
    - Bài thực hành buổi 1:
-      + Tạo repository trên github
-      + Tạo repository trên localhost => tạo file ReadMe.md => đẩy lên github
+     + Tạo repository trên github
+     + Tạo repository trên localhost => tạo file ReadMe.md => đẩy lên github
+   - Bài thực hành buổi 2:
+     + Làm bài thực hành HTML và CSS (Bootstrap)
+     + Mỗi nội dung trong HTML, CSS làm ra một file riêng
+     + Làm từ đầu đến hết phần table
    - 
