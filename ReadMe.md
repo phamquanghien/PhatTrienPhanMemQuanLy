@@ -36,7 +36,13 @@
 4. Buổi học số 2
    - Branch trong git
    - Các lệnh git: git clone, git pull, git push, git merge, git checkout
-5. Bài thực hành
+5. Buổi học số 3:
+   - Cách tạo project .net MVC: dotnet new mvc ...
+   - namespace là gì, cách đặt tên
+   - Cách tạo Controller và View
+   - Định tuyến (route) trong mvc
+   - IActionResult là gì? Các kiểu trả về: ViewResult, RedirectResult, RedirectToActionResult, JsonResult, FileResult, StatusCodeResult
+6. Bài thực hành
    - Bài thực hành buổi 1:
      + Tạo repository trên github
      + Tạo repository trên localhost => tạo file ReadMe.md => đẩy lên github
@@ -44,4 +50,9 @@
      + Làm bài thực hành HTML và CSS (Bootstrap)
      + Mỗi nội dung trong HTML, CSS làm ra một file riêng
      + Làm từ đầu đến hết phần table
+   - Bài thực hành buổi 3:
+     + Tạo project DemoMvc + 3 số cuối mã sinh viên => đẩy lên github => điểm danh
+     + Tạo Controller: DemoController
+     + Tạo view Index => chứa các nội dung của buổi học số 3
+     + Tạo các action và view tương ứng để lấy ví dụ về: ViewResult, RedirectResult, RedirectToActionResult, JsonResult, FileResult, StatusCodeResult
    - 
