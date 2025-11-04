@@ -42,7 +42,11 @@
    - Cách tạo Controller và View
    - Định tuyến (route) trong mvc
    - IActionResult là gì? Các kiểu trả về: ViewResult, RedirectResult, RedirectToActionResult, JsonResult, FileResult, StatusCodeResult
-6. Bài thực hành
+6. Buổi học số 4: gửi nhận dữ liệu giữa Model-View-Controller
+   - ViewBag, ViewData, TempData
+   - Form trong HTML, Submit form (asp-action, asp-controller)
+   - Tạo class trong model => Gửi nhận dữ liệu theo model
+7. Bài thực hành
    - Bài thực hành buổi 1:
      + Tạo repository trên github
      + Tạo repository trên localhost => tạo file ReadMe.md => đẩy lên github
@@ -55,4 +59,8 @@
      + Tạo Controller: DemoController
      + Tạo view Index => chứa các nội dung của buổi học số 3
      + Tạo các action và view tương ứng để lấy ví dụ về: ViewResult, RedirectResult, RedirectToActionResult, JsonResult, FileResult, StatusCodeResult
+   - Bài thực hành buổi 4:
+    + Sử dụng  ViewBag, ViewData, TempData để gửi nhận dữ liệu => Cần ví dụ demo
+    + Gửi nhận dữ liệu giữa Controller và View => Lấy ví dụ demo
+    + Gửi nhận dữ liệu giữa Model (tạo class Student trong thư mục Models) - View (tạo form để nhập dữ liệu và có giao diện để hiển thị dữ liệu) và Controller (Có action để trả về view, và action để nhận dữ liệu và xử lý) => Lấy ví dụ demo
    - 
