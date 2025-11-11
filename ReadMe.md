@@ -63,4 +63,8 @@
     + Sử dụng  ViewBag, ViewData, TempData để gửi nhận dữ liệu => Cần ví dụ demo
     + Gửi nhận dữ liệu giữa Controller và View => Lấy ví dụ demo
     + Gửi nhận dữ liệu giữa Model (tạo class Student trong thư mục Models) - View (tạo form để nhập dữ liệu và có giao diện để hiển thị dữ liệu) và Controller (Có action để trả về view, và action để nhận dữ liệu và xử lý) => Lấy ví dụ demo
+   - Bài thực hành buổi 5:
+    + Xây dựng chức năng cho phép hiển thị view nhập tên người dùng, sau đó gửi lên controller nhận và xử lý hiển thị lên view: Xin chào + tên người dùng, ví dụ: Xin chào Phạm Quang Hiển
+    + Thêm vào chức năng trên, nhập vào năm sinh và hiển thị tuổi của người dùng.
+    + Xây dựng chức năng giải phương trình bậc 2
    - 
